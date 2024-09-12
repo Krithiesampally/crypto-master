@@ -80,7 +80,7 @@ Create a cryptocurrency that provides a high potential for returns on investment
 
 ## Live Website and Resources
 
-- *Website Link*: [Healthcare Services](https://github.com/Indhu2024/Website.git)
+- *Website Link*: [crypto-master](https://github.com/Krithiesampally/crypto-master.git)
   
 - *Screenshots*:
   *Created Resource Group Screenshot*
@@ -108,11 +108,3 @@ Create a cryptocurrency that provides a high potential for returns on investment
 ## Conclusion
 
 This project showcases the end-to-end process of deploying a static website using Azure's ARM templates and load balancing capabilities. By distributing traffic between two VMs in different availability zones, we ensure high availability and scalability for the *crypto-master* platform. The integration of Azure's powerful tools and services simplified the deployment and configuration process.
-
-## Author
-
-```*Jayanthi kumari*  
-*Krithi*
-*Yousuf*
-```
-Deployed all group members together as part of learning Azure's cloud infrastructure.
