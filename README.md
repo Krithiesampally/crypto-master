@@ -81,23 +81,14 @@ Create a cryptocurrency that provides a high potential for returns on investment
 ## Live Website and Resources
 
 - *Website Link*: [Healthcare Services](https://github.com/Indhu2024/Website.git)
-- *Project Video*: [Project Video](https://drive.google.com/file/d/1RyNTaPkZvLWLOdgI584FnFTLeZhatIZL/view?usp=drive_link)
+  
 - *Screenshots*:
   *Created Resource Group Screenshot*
   - ![ResourceGroup Screenshot](ProjectScreenshots/ResourceGroupSS.png)
     
   *ResourceGroup Deployment Command Output*
   - ![RSG-Deployment-output Screenshot](ProjectScreenshots/RSG-Deployment-output.png)
-
-  *VNet Subnets RSG ARM Template Output*
-  - ![VNetDeploymentoutputSS Screenshot](ProjectScreenshots/VNetDeploymentoutputSS.png)
-
-   *Created VNet Screenshot* 
-  - ![VNetSS Screenshot](ProjectScreenshots/SubnetSS.png)
-
-  *Created Subnets Screenshot*
-  - ![SubnetSS Screenshot](./ProjectScreenshots/SubnetSS.png)
-
+ 
    *Deployed VM 1 Screenshot*
   - ![VM1SS Screenshot](./ProjectScreenshots/VM1SS.png)
 
@@ -110,23 +101,17 @@ Create a cryptocurrency that provides a high potential for returns on investment
   *Website Home Page Screenshot*
   - ![closet.AIHomepage Screenshot](ProjectScreenshots/HomePage.png)
 
-  *Health Tracker Page after complete Deployment*
-  - ![Health TrackerPage ](ProjectScreenshots/Healthtracker.png)
-
-  *Fitness Regime Page after complete Deployment*
-  - ![Fitness Regime](ProjectScreenshots/FitnessRegime.png)
-
-  *Nutrition Planner  Page after complete Deployment*
-  - ![Nutrition Planner ](ProjectScreenshots/NutritionPlanner.png)
+  *Whatsapp Integration  Page after complete Deployment*
+  - ![Whatsapp ](ProjectScreenshots/Whatsapp.png)
 
 
 ## Conclusion
 
-This project showcases the end-to-end process of deploying a static website using Azure's ARM templates and load balancing capabilities. By distributing traffic between two VMs in different availability zones, we ensure high availability and scalability for the *Healthcare Services* platform. The integration of Azure's powerful tools and services simplified the deployment and configuration process.
+This project showcases the end-to-end process of deploying a static website using Azure's ARM templates and load balancing capabilities. By distributing traffic between two VMs in different availability zones, we ensure high availability and scalability for the *crypto-master* platform. The integration of Azure's powerful tools and services simplified the deployment and configuration process.
 
 ## Author
 
-*Indhu Reddy Yerra*  
-*John Nikhil*
-*Charitha*
+*Jayanthi kumari*  
+*Krithi*
+*Yousuf*
 Deployed all group members together as part of learning Azure's cloud infrastructure.
