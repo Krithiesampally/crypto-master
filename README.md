@@ -111,7 +111,8 @@ This project showcases the end-to-end process of deploying a static website usin
 
 ## Author
 
-*Jayanthi kumari*  
+```*Jayanthi kumari*  
 *Krithi*
 *Yousuf*
+```
 Deployed all group members together as part of learning Azure's cloud infrastructure.
